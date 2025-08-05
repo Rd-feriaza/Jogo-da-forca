@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 
 # Jogo da Forca
 
@@ -22,7 +20,33 @@ Repositório para atualização da criação do primeiro jogo da forca.
 
 ```
 
+### Class: Word
+Responsável por armazenar e gerenciar a palavra secreta.
+
+### Class: Forca
+Responsável por representar o estado da forca "vidas restantes".
+
+### Class: Main
+Ponto de entrada do programa.
+
+### Class: Util
+Para carregar as palavras
+
+- Implemetações
+```
+Sistema de menu com opção de jogar novamente.
+
+Listagem de letras já usadas.
+
+Escolher palavras de um arquivo externo.
+```
+- Futuras Implemetações
+```
+Diferentes níveis de dificuldade.
+Desenho da forca
+Interface gráfica para jogar fora do console.
+
+```
 ## 🔎 Referência
 
-- [Digital Innovation One](https://web.dio.me/lab/criando-um-jogo-da-forca-com-uma-aplicacao-console-java/learning/1f4c3145-1bb1-44f3-b36b-0907b36e0f0c?back=/track/ntt-data-java-e-ia-para-iniciantes).
->>>>>>> 13c3951 ( Atualização da descrição)
+- [Digital Innovation One -> Bootcamp: NTT DATA - Java e IA para Iniciantes](https://web.dio.me/lab/criando-um-jogo-da-forca-com-uma-aplicacao-console-java/learning/1f4c3145-1bb1-44f3-b36b-0907b36e0f0c?back=/track/ntt-data-java-e-ia-para-iniciantes).
