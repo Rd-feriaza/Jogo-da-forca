@@ -14,12 +14,16 @@ public class Main {
             System.out.println("2. Sair");
             System.out.print("Escolha uma opção: ");
             int choice = scanner.nextInt();
+<<<<<<< HEAD
             scanner.nextLine(); // limpar buffer
+=======
+            scanner.nextLine();
+>>>>>>> a4493ad (versão com a forca e o bonequinho)
 
             switch (choice) {
                 case 1:
                     String wordsChosen = Util.ToChooseWordsRandom(listWords);
-                    GameFromTheGallows game = new GameFromTheGallows(wordsChosen);
+                    HangmanGame game = new HangmanGame(wordsChosen);
                     game.startGame();
                     break;
 
