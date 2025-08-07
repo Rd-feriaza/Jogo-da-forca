@@ -39,11 +39,12 @@ Sistema de menu com opção de jogar novamente.
 Listagem de letras já usadas.
 
 Escolher palavras de um arquivo externo.
+
+Desenho da forca
 ```
 - Futuras Implemetações
 ```
 Diferentes níveis de dificuldade.
-Desenho da forca
 Interface gráfica para jogar fora do console.
 
 ```
